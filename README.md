@@ -1,12 +1,23 @@
-- 👋 Hi, I’m @nitin56-pro
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 👋 Hi, I'm Nitin Singh
 
-<!---
-nitin56-pro/nitin56-pro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 💻 Aspiring Cybersecurity Professional | Security Enthusiast 🔐
+
+Driven by a passion for continuous learning, I focus on mastering core cybersecurity concepts and developing robust digital protection strategies. I use GitHub to document my hands-on labs, security research, and open-source contributions. 
+
+### 🛡️ Areas of Interest & Focus
+
+* **Network & Application Security** — Understanding vulnerabilities and defense mechanisms.
+* **Threat Intelligence & Analysis** — Keeping up with evolving cyber threats.
+* **Security Operations (SecOps)** — Building and monitoring resilient digital environments.
+
+### 🛠️ Tech Stack & Tools
+
+* **Languages:** Python, Bash, PowerShell
+* **OS & Environments:** Linux (Kali, Ubuntu), Windows Server, Docker
+* **Security Tools:** Wireshark, Nmap, Burp Suite, Metasploit
+
+### 📈 What I'm Working On
+
+* 🔭 Refine my skills through practical labs and CTF challenges.
+* 📚 Studying for industry-recognized security certifications.
+* 🤝 Open to collaborating on open-source security tools and projects.
